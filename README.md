@@ -4,7 +4,7 @@
 
 ### <🇸🇻> À propos de moi </🇸🇻>
 
-Je m'appelle Marco et je viens du Salvador et je suis **Développeur Web**. Je suis sur Github pour :
+Je m'appelle Marco, je viens du Salvador et je suis **Développeur Web**. Je suis sur Github pour :
 - Partager le code que j'écris;
 - Apprendre des nouvelles technologies;
 - M'inspirer et trouver des bonnes idées !;
@@ -27,7 +27,7 @@ N'hésitez pas à visiter [mes repositories](https://github.com/Marcoguzman211?t
 
 ---
 
-### <📫> How to reach me </📫>
+### <📫> Contactez-moi</📫>
 
 [![Github badge](https://img.shields.io/badge/Marcoguzman211-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Marcoguzman211) [![Gmail badge](https://img.shields.io/badge/marcoguzman@kiratech.fr-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcoguzman@kiratech.fr)
 
@@ -37,4 +37,4 @@ N'hésitez pas à visiter [mes repositories](https://github.com/Marcoguzman211?t
 
 ------
 
-Dernière modification le: 22/04/2022.
+Dernière modification le: 27/04/2022.
